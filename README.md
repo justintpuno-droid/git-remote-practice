@@ -1,4 +1,4 @@
-# git-remote-practice
+# RA 10 - git-remote-practice
 
 A practice repository for demonstrating Git remote workflows and time travel, created as part of CSC600 Cycle 2 (RA 10).
 
