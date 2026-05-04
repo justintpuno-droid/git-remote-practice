@@ -8,3 +8,4 @@ This is a practice repository for demonstrating Git remote workflows, created fo
 - Cloned repository from GitHub to local machine
 - Made local commits and pushed to remote (`git push origin main`)
 - Simulated a remote change and pulled it down (`git pull origin main`)
+Pre-Conference commit
